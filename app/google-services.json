@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "329660534815",
+    "firebase_url": "https://restaurantlocator-bcb61.firebaseio.com",
+    "project_id": "restaurantlocator-bcb61",
+    "storage_bucket": "restaurantlocator-bcb61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329660534815:android:3c290bca9c01e33f",
+        "android_client_info": {
+          "package_name": "com.example.toshiba.restaurantlocator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329660534815-0h7lpuobrumvfdlgm5379ob23rvstt2b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.toshiba.restaurantlocator",
+            "certificate_hash": "d977106ef5c09a2243b716a99dc0910e03ad4640"
+          }
+        },
+        {
+          "client_id": "329660534815-84u9u731k69g8gpbtp7d5ec2js635od6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPGP9szxbrgSfmd8P9lmDwcO6L0BsaNXU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329660534815-84u9u731k69g8gpbtp7d5ec2js635od6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
